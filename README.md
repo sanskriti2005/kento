@@ -1,2 +1,2 @@
 # kento
-A fine-tuned chatbot that sends an alert whenever vulnerable genders are in potentially dangerous situations against men and advices them on what to do when they feel unsafe.
+The name comes from one of my favorite charcters from Jujustsu Kaisen, logic being that Nanami Kento should be the foundation model for every man out there. Regardless of these origins, Kento the chatbot is not a man. 
